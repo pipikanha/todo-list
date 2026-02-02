@@ -25,3 +25,8 @@ Some features are partially implemented and may change as the project evolves.
 - Font Awesome (icons)
 
 ## 📂 Project Structure
+/css
+└── styles.css
+/js
+└── script.js
+index.html
